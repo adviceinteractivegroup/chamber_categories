@@ -854,7 +854,7 @@ exports.categories = [
     'category_id': 'rental-centers'
   },
   {
-    'title': 'Sewer Septic & Drain Services',
+    'title': 'Sewer, Septic & Drain Services',
     'category_id': 'sewer-septic-drain-services'
   },
   {
@@ -946,7 +946,7 @@ exports.categories = [
     'category_id': 'forestry-logging'
   },
   {
-    'title': 'Hair Nail & Skin Care Services',
+    'title': 'Hair, Nail & Skin Care Services',
     'category_id': 'hair-nail-skin-care-services'
   },
   {
@@ -1658,7 +1658,7 @@ exports.categories = [
     'category_id': 'pets-pet-supplies'
   },
   {
-    'title': 'Pictures Prints & Picture Frames',
+    'title': 'Pictures, Prints & Picture Frames',
     'category_id': 'pictures-prints-picture-frames'
   },
   {
@@ -1714,7 +1714,7 @@ exports.categories = [
     'category_id': 'greek-restaurants'
   },
   {
-    'title': 'Trophies Awards & Monuments',
+    'title': 'Trophies, Awards & Monuments',
     'category_id': 'trophies-awards-monuments'
   },
   {
@@ -1906,7 +1906,7 @@ exports.categories = [
     'category_id': 'convention-conference-services'
   },
   {
-    'title': 'Heating Ventilation & Air Conditioning Repair',
+    'title': 'Heating, Ventilation & Air Conditioning Repair',
     'category_id': 'heating-ventilation-air-conditioning-repair'
   },
   {
@@ -1914,7 +1914,7 @@ exports.categories = [
     'category_id': 'manufactured-mobile-home-communities'
   },
   {
-    'title': 'Paintings Drawings & Prints',
+    'title': 'Paintings, Drawings & Prints',
     'category_id': 'paintings-drawings-prints'
   },
   {
@@ -2858,7 +2858,7 @@ exports.categories = [
     'category_id': 'computer-office-machine-repair'
   },
   {
-    'title': 'Concrete Cement & Asphalt',
+    'title': 'Concrete, Cement & Asphalt',
     'category_id': 'concrete-cement-asphalt'
   },
   {
@@ -5018,7 +5018,7 @@ exports.categories = [
     'category_id': 'party-supply-equipment-rental'
   },
   {
-    'title': 'Instruments Tools & Appliances',
+    'title': 'Instruments, Tools & Appliances',
     'category_id': 'instruments-tools-appliances'
   },
   {
@@ -5298,7 +5298,7 @@ exports.categories = [
     'category_id': 'organization-materials'
   },
   {
-    'title': 'Marriage Family & Divorce Assistance',
+    'title': 'Marriage, Family & Divorce Assistance',
     'category_id': 'marriage-family-divorce-assistance'
   },
   {
@@ -5638,7 +5638,7 @@ exports.categories = [
     'category_id': 'dyes-pigments-manufacturing-wholesale'
   },
   {
-    'title': 'Oncology Hematology & Radiology',
+    'title': 'Oncology, Hematology & Radiology',
     'category_id': 'oncology-hematology-radiology'
   },
   {
@@ -5686,7 +5686,7 @@ exports.categories = [
     'category_id': 'roofing-contractors'
   },
   {
-    'title': 'Tile Brick & Stone',
+    'title': 'Tile, Brick & Stone',
     'category_id': 'tile-brick-stone'
   },
   {
@@ -5766,7 +5766,7 @@ exports.categories = [
     'category_id': 'siding-contractors'
   },
   {
-    'title': 'Windows Doors & Glass Products',
+    'title': 'Windows, Doors & Glass Products',
     'category_id': 'windows-doors-glass-products'
   },
   {
@@ -5818,7 +5818,7 @@ exports.categories = [
     'category_id': 'islamic-centers-mosques'
   },
   {
-    'title': 'Swimming Pool Hot Tub & Sauna Contractors',
+    'title': 'Swimming Pool, Hot Tub & Sauna Contractors',
     'category_id': 'swimming-pool-hot-tub-sauna-contractors'
   },
   {
@@ -7378,7 +7378,7 @@ exports.categories = [
     'category_id': 'records-destruction'
   },
   {
-    'title': 'Cabinets Shutters & Moldings Manufacturing & Wholesale',
+    'title': 'Cabinets, Shutters & Moldings Manufacturing & Wholesale',
     'category_id': 'cabinets-shutters-moldings-manufacturing-wholesale'
   },
   {
@@ -8018,7 +8018,7 @@ exports.categories = [
     'category_id': 'cooking-oils-edible-fats-manufacturing-wholesale'
   },
   {
-    'title': 'Monuments Fountains & Statuary Manufacturing & Wholesale',
+    'title': 'Monuments, Fountains & Statuary Manufacturing & Wholesale',
     'category_id': 'monuments-fountains-statuary-manufacturing-wholesale'
   },
   {
@@ -8122,7 +8122,7 @@ exports.categories = [
     'category_id': 'fingerprinting-equipment-manufacturing-wholesale'
   },
   {
-    'title': 'Plaster Stucco & Mortar Manufacturing & Wholesale',
+    'title': 'Plaster, Stucco & Mortar Manufacturing & Wholesale',
     'category_id': 'plaster-stucco-mortar-manufacturing-wholesale'
   },
   {
